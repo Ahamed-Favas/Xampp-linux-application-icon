@@ -6,3 +6,7 @@ This program creates a xampp server shortcut on applications list for easy acces
 2. cd Xampp-linux-application-icon
 3. chmod +x xampp-icon-linux.sh
 4. ./xampp-icon-linux.sh
+
+for deleting :
+1. cd /usr/share/applications
+2. sudo rm xampp-icon.desktop
